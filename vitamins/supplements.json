@@ -1,0 +1,118 @@
+{
+ "status": "draft_needs_pharmacist_review",
+ "reviewed": "2026-11-13",
+ "source": {
+  "org": "NIH Office of Dietary Supplements",
+  "url": "https://ods.od.nih.gov/factsheets/list-all/"
+ },
+ "items": [
+  {
+   "name": "Potassium",
+   "role": "Helps nerves, muscles and heart rhythm; diets rich in potassium are linked with lower blood pressure.",
+   "food": [
+    "Beans",
+    "Potatoes",
+    "Bananas",
+    "Yogurt",
+    "Fish"
+   ],
+   "deficiency": [
+    "Weakness",
+    "Cramps",
+    "Rhythm disturbances"
+   ],
+   "excess": [
+    "Dangerously high blood potassium, especially with kidney disease"
+   ],
+   "cv_note": "Food sources are generally preferred over supplements.",
+   "interactions": [
+    "ACE inhibitors, ARBs, spironolactone: can raise potassium"
+   ],
+   "caution": {
+    "hypertension": "Do not start potassium supplements or salt substitutes without clinician advice.",
+    "heart": "Rhythm effects at both low and high levels.",
+    "kidney": "High risk: avoid unless prescribed."
+   }
+  },
+  {
+   "name": "Vitamin K",
+   "role": "Needed for blood clotting factors and bone proteins.",
+   "food": [
+    "Spinach",
+    "Kale",
+    "Broccoli",
+    "Soybean oil"
+   ],
+   "deficiency": [
+    "Easy bleeding"
+   ],
+   "excess": [
+    "Low toxicity in healthy people; counteracts warfarin"
+   ],
+   "cv_note": "Not a heart treatment.",
+   "interactions": [
+    "Warfarin: keep intake consistent"
+   ],
+   "caution": {
+    "hypertension": "No specific caution.",
+    "heart": "If on warfarin, avoid sudden changes in intake.",
+    "kidney": "Ask clinician."
+   }
+  },
+  {
+   "name": "Vitamin D",
+   "role": "Supports calcium absorption and bone health.",
+   "food": [
+    "Oily fish",
+    "Fortified milk",
+    "Egg yolk"
+   ],
+   "deficiency": [
+    "Rickets (children)",
+    "Osteomalacia (adults)"
+   ],
+   "excess": [
+    "High blood calcium, kidney stones, nausea"
+   ],
+   "cv_note": "Trials have not shown that supplements prevent heart disease in people who are not deficient.",
+   "interactions": [
+    "Thiazide diuretics (calcium levels)"
+   ],
+   "caution": {
+    "hypertension": "Avoid high doses without a measured deficiency.",
+    "heart": "High calcium can affect rhythm.",
+    "kidney": "Ask clinician before supplementing."
+   }
+  },
+  {
+   "name": "Omega-3 fatty acids",
+   "role": "Fish oil fats (EPA, DHA) that lower triglycerides at prescription doses.",
+   "food": [
+    "Salmon",
+    "Sardines",
+    "Mackerel"
+   ],
+   "deficiency": [
+    "Rare"
+   ],
+   "excess": [
+    "Bleeding tendency at high doses; digestive upset"
+   ],
+   "cv_note": "Eating fish is encouraged; over-the-counter supplements have not consistently reduced events.",
+   "interactions": [
+    "Warfarin and other anticoagulants or antiplatelets (bleeding)"
+   ],
+   "caution": {
+    "hypertension": "Generally low risk at usual doses.",
+    "heart": "Some trials linked high-dose fish oil to atrial fibrillation: discuss first.",
+    "kidney": "Ask clinician."
+   }
+  }
+ ],
+ "should_you_take": [
+  "Do you have a measured deficiency (blood test)?",
+  "Does your diet plausibly fall short?",
+  "Do you take any medicine that interacts?",
+  "Does a medical condition make it risky?"
+ ]
+}

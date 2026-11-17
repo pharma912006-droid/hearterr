@@ -1,0 +1,61 @@
+{
+ "category": "Anticoagulants and antiplatelets",
+ "status": "draft_needs_pharmacist_review",
+ "reviewed": "2026-11-13",
+ "source": {
+  "org": "NIH Office of Dietary Supplements",
+  "title": "Vitamin K fact sheet",
+  "url": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/"
+ },
+ "drugs": [
+  {
+   "generic": "Warfarin",
+   "brands": [
+    "Coumadin",
+    "Jantoven"
+   ],
+   "class": "Vitamin K antagonist anticoagulant",
+   "mechanism": "Reduces production of vitamin K-dependent clotting factors.",
+   "indications": [
+    "Prevention and treatment of venous thromboembolism",
+    "Stroke prevention in atrial fibrillation",
+    "Mechanical heart valves"
+   ],
+   "contraindications": [
+    "Pregnancy (most cases)",
+    "Active major bleeding"
+   ],
+   "common": [
+    "Easy bruising",
+    "Minor bleeding"
+   ],
+   "serious": [
+    "Major bleeding",
+    "Skin necrosis (rare)"
+   ],
+   "interactions": [
+    "Many antibiotics and antifungals",
+    "NSAIDs and aspirin (bleeding)",
+    "Amiodarone",
+    "Herbal products such as St John's wort"
+   ],
+   "food": [
+    "Keep vitamin K intake (leafy greens) consistent day to day; do not suddenly change it",
+    "Alcohol and cranberry in large amounts can affect INR"
+   ],
+   "supplements": [
+    "Vitamin K, multivitamins containing vitamin K, fish oil and vitamin E: discuss before starting or stopping"
+   ],
+   "monitoring": [
+    "INR at intervals set by the clinic"
+   ],
+   "seek_care": [
+    "Black or bloody stool",
+    "Vomiting blood",
+    "Head injury",
+    "Severe headache",
+    "Bleeding that will not stop"
+   ]
+  }
+ ]
+}

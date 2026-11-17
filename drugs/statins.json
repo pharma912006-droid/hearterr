@@ -1,0 +1,56 @@
+{
+ "category": "Cholesterol-lowering",
+ "status": "draft_needs_pharmacist_review",
+ "reviewed": "2026-11-13",
+ "source": {
+  "org": "MedlinePlus / NIH",
+  "url": "https://medlineplus.gov/druginfo/"
+ },
+ "drugs": [
+  {
+   "generic": "Atorvastatin",
+   "brands": [
+    "Lipitor"
+   ],
+   "class": "Statin (HMG-CoA reductase inhibitor)",
+   "mechanism": "Inhibits HMG-CoA reductase, reducing cholesterol production in the liver and lowering LDL cholesterol.",
+   "indications": [
+    "High LDL cholesterol",
+    "Reducing risk of heart attack and stroke"
+   ],
+   "contraindications": [
+    "Active liver disease",
+    "Pregnancy and breastfeeding"
+   ],
+   "common": [
+    "Muscle aches",
+    "Mild digestive upset"
+   ],
+   "serious": [
+    "Rhabdomyolysis (severe muscle breakdown)",
+    "Liver injury"
+   ],
+   "interactions": [
+    "Clarithromycin and some antifungals",
+    "Cyclosporine",
+    "Gemfibrozil"
+   ],
+   "food": [
+    "Large amounts of grapefruit juice: discuss with pharmacist"
+   ],
+   "supplements": [
+    "Red yeast rice contains statin-like compounds: avoid combining without advice"
+   ],
+   "monitoring": [
+    "Lipid profile",
+    "Liver enzymes when indicated",
+    "Muscle symptoms"
+   ],
+   "seek_care": [
+    "Unexplained severe muscle pain or weakness",
+    "Dark urine",
+    "Yellowing of skin or eyes"
+   ]
+  }
+ ]
+}

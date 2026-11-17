@@ -1,0 +1,39 @@
+{
+ "source": {
+  "org": "World Health Organization",
+  "title": "WHO guidelines on physical activity and sedentary behaviour",
+  "year": 2020,
+  "url": "https://www.who.int/publications/i/item/9789240015128"
+ },
+ "reviewed": "2026-11-13",
+ "groups": [
+  {
+   "id": "child",
+   "label": "Children (under 13)",
+   "min": 0,
+   "max": 12,
+   "text": "Aim for an average of 60 minutes a day of moderate-to-vigorous activity (ages 5-12), mostly aerobic, including bone and muscle strengthening on at least 3 days a week. Use pediatric advice, not adult plans."
+  },
+  {
+   "id": "teen",
+   "label": "Adolescents (13-17)",
+   "min": 13,
+   "max": 17,
+   "text": "Aim for an average of 60 minutes a day of moderate-to-vigorous activity, including vigorous aerobic, bone and muscle strengthening on at least 3 days a week."
+  },
+  {
+   "id": "adult",
+   "label": "Adults (18-64)",
+   "min": 18,
+   "max": 64,
+   "text": "150-300 minutes of moderate activity or 75-150 minutes of vigorous activity per week, plus muscle strengthening on 2 or more days. Starting lower and building gradually is fine."
+  },
+  {
+   "id": "older",
+   "label": "Older adults (65+)",
+   "min": 65,
+   "max": 150,
+   "text": "Same weekly aerobic targets as adults, plus varied activity emphasising balance and strength on 3 or more days a week to prevent falls."
+  }
+ ]
+}

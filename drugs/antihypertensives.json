@@ -1,0 +1,198 @@
+{
+ "category": "Antihypertensives",
+ "status": "draft_needs_pharmacist_review",
+ "reviewed": "2026-11-13",
+ "source": {
+  "org": "MedlinePlus / NIH",
+  "title": "Drugs, Herbs and Supplements",
+  "url": "https://medlineplus.gov/druginfo/",
+  "note": "Per-drug page URLs still to be verified"
+ },
+ "drugs": [
+  {
+   "generic": "Ramipril",
+   "brands": [
+    "Altace",
+    "Tritace"
+   ],
+   "class": "ACE inhibitor",
+   "mechanism": "Blocks conversion of angiotensin I to angiotensin II, relaxing blood vessels and lowering blood pressure.",
+   "indications": [
+    "Hypertension",
+    "Heart failure",
+    "Reducing cardiovascular risk in selected patients"
+   ],
+   "contraindications": [
+    "Pregnancy",
+    "History of angioedema with ACE inhibitors"
+   ],
+   "common": [
+    "Dry cough",
+    "Dizziness"
+   ],
+   "serious": [
+    "Angioedema (swelling of face, lips, tongue)",
+    "High potassium",
+    "Kidney function decline"
+   ],
+   "interactions": [
+    "Potassium supplements and potassium-sparing diuretics (high potassium)",
+    "NSAIDs (reduced effect, kidney risk)",
+    "Other blood-pressure lowering drugs (additive effect)"
+   ],
+   "food": [
+    "Potassium-based salt substitutes may raise potassium"
+   ],
+   "supplements": [
+    "Potassium supplements: only with clinician advice"
+   ],
+   "monitoring": [
+    "Blood pressure",
+    "Kidney function",
+    "Potassium"
+   ],
+   "seek_care": [
+    "Swelling of face, lips or tongue",
+    "Fainting",
+    "Very little urine"
+   ]
+  },
+  {
+   "generic": "Losartan",
+   "brands": [
+    "Cozaar"
+   ],
+   "class": "Angiotensin II receptor blocker (ARB)",
+   "mechanism": "Blocks the angiotensin II type 1 receptor, relaxing blood vessels.",
+   "indications": [
+    "Hypertension",
+    "Diabetic kidney disease",
+    "Stroke-risk reduction in hypertension with left ventricular hypertrophy"
+   ],
+   "contraindications": [
+    "Pregnancy"
+   ],
+   "common": [
+    "Dizziness",
+    "Fatigue"
+   ],
+   "serious": [
+    "High potassium",
+    "Kidney function decline",
+    "Angioedema (rare)"
+   ],
+   "interactions": [
+    "Potassium supplements and potassium-sparing diuretics",
+    "NSAIDs",
+    "Lithium"
+   ],
+   "food": [
+    "Potassium-based salt substitutes may raise potassium"
+   ],
+   "supplements": [
+    "Potassium supplements: only with clinician advice"
+   ],
+   "monitoring": [
+    "Blood pressure",
+    "Kidney function",
+    "Potassium"
+   ],
+   "seek_care": [
+    "Swelling of face or tongue",
+    "Fainting",
+    "Very little urine"
+   ]
+  },
+  {
+   "generic": "Amlodipine",
+   "brands": [
+    "Norvasc"
+   ],
+   "class": "Calcium channel blocker (dihydropyridine)",
+   "mechanism": "Blocks calcium entry into vascular smooth muscle, relaxing arteries.",
+   "indications": [
+    "Hypertension",
+    "Angina"
+   ],
+   "contraindications": [
+    "Severe aortic stenosis (use caution)",
+    "Known hypersensitivity"
+   ],
+   "common": [
+    "Ankle swelling",
+    "Flushing",
+    "Headache"
+   ],
+   "serious": [
+    "Severe low blood pressure",
+    "Worsening angina (rare)"
+   ],
+   "interactions": [
+    "Simvastatin (dose limit applies)",
+    "Strong CYP3A4 inhibitors"
+   ],
+   "food": [
+    "Large amounts of grapefruit juice: discuss with pharmacist"
+   ],
+   "supplements": [],
+   "monitoring": [
+    "Blood pressure",
+    "Heart rate",
+    "Ankle swelling"
+   ],
+   "seek_care": [
+    "Chest pain",
+    "Fainting",
+    "Marked swelling"
+   ]
+  },
+  {
+   "generic": "Bisoprolol",
+   "brands": [
+    "Concor",
+    "Zebeta"
+   ],
+   "class": "Beta-1 selective blocker",
+   "mechanism": "Blocks beta-1 receptors in the heart, lowering heart rate and workload.",
+   "indications": [
+    "Hypertension",
+    "Heart failure (stable)",
+    "Angina"
+   ],
+   "contraindications": [
+    "Severe bradycardia",
+    "Heart block without pacemaker",
+    "Cardiogenic shock",
+    "Severe asthma (caution)"
+   ],
+   "common": [
+    "Tiredness",
+    "Cold hands/feet",
+    "Slow pulse"
+   ],
+   "serious": [
+    "Marked bradycardia",
+    "Worsening heart failure",
+    "Bronchospasm"
+   ],
+   "interactions": [
+    "Verapamil and diltiazem (slow heart rate)",
+    "Other blood-pressure lowering drugs",
+    "Insulin and diabetes medicines (may mask low-sugar symptoms)"
+   ],
+   "food": [],
+   "supplements": [],
+   "monitoring": [
+    "Heart rate",
+    "Blood pressure"
+   ],
+   "seek_care": [
+    "Fainting",
+    "Pulse very slow",
+    "Wheezing",
+    "Sudden swelling or breathlessness"
+   ],
+   "precaution": "Do not stop suddenly: abrupt withdrawal can worsen angina or heart rhythm."
+  }
+ ]
+}

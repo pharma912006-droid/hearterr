@@ -1,0 +1,28 @@
+{
+ "database_version": "0.1-prototype",
+ "built": "2026-11-13",
+ "completeness": "Prototype subset. Not complete.",
+ "counts": {
+  "drugs": 6,
+  "supplements": 4,
+  "age_groups": 4
+ },
+ "verified_entries": 0,
+ "needs_pharmacist_review": [
+  "All drug entries",
+  "All supplement entries"
+ ],
+ "needs_physician_review": [
+  "Emergency guidance",
+  "Exercise guidance gating rules"
+ ],
+ "missing": [
+  "Remaining drug classes and drugs",
+  "Vitamins A, B-group, C, E; magnesium, calcium, zinc, iron, selenium, CoQ10, fiber",
+  "Reference intake tables by age and sex",
+  "Exercise catalogue and training plans",
+  "Food library and meal plans",
+  "Medical library topics",
+  "Per-drug source URLs and publication years"
+ ]
+}

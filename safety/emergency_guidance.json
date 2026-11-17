@@ -1,0 +1,32 @@
+{
+ "number": {
+  "Egypt": "123",
+  "default": "your local emergency number"
+ },
+ "signs": [
+  {
+   "t": "Chest pain or pressure",
+   "d": "Pain, pressure or tightness in the chest, or spreading to arm, jaw or back."
+  },
+  {
+   "t": "Severe shortness of breath",
+   "d": "Struggling to breathe at rest or unable to speak full sentences."
+  },
+  {
+   "t": "Fainting",
+   "d": "Passing out, or nearly passing out, especially with chest pain or palpitations."
+  },
+  {
+   "t": "Stroke warning signs",
+   "d": "Face drooping, arm weakness, speech difficulty, sudden confusion, vision loss or severe headache. Note the time symptoms began."
+  },
+  {
+   "t": "Palpitations with other symptoms",
+   "d": "Racing or irregular heartbeat together with dizziness, chest pain, breathlessness or fainting."
+  }
+ ],
+ "source": {
+  "org": "American Heart Association",
+  "url": "https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack"
+ }
+}
